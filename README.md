@@ -9,7 +9,8 @@
       
   ## Usage    
   Once the application is running, in the command terminal, the user will be asked a series of questions regarding the project for which they would like to generate a README file. Once the questions are answered, the README file will be automatically created in the current working directory.     
-  [See video Part 1](https://watch.screencastify.com/v/yMUX7AyPlfQ5Yy24INmv)
+  [See video Part 1](https://watch.screencastify.com/v/yMUX7AyPlfQ5Yy24INmv)   
+  
   [See video Part 2](https://watch.screencastify.com/v/txRqzONsUCSed0w6EyqB)
       
   ## Credits   
