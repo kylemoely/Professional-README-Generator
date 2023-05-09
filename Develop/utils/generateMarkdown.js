@@ -34,7 +34,7 @@ function renderLicenseSection(license) {
   let link = renderLicenseLink(license);
   let badge = renderLicenseBadge(license);
   return `${badge}   
-  Licensed under the ["${license}"](${link}) license.`;
+  Licensed under the [${license}](${link}) license.`;
 }
 
 // TODO: Create a function to generate markdown for README
@@ -60,8 +60,8 @@ const generateMarkdown = function (data) {
      
   ## Questions   
   For any questions, comments, or concerns, please contact me through:   
-  ["GitHub"](http://www.github.com/${data.username})  
-  ["Email"](mailto:${data.email})
+  [GitHub](http://www.github.com/${data.username})  
+  [Email](mailto:${data.email})
 `;
 }
 
